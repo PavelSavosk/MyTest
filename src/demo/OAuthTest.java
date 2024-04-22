@@ -111,6 +111,7 @@ public class OAuthTest {
 		
 		
 	}
+	{
 	
 	System.out.println("TestGit");
 	System.out.println("TestGit1");
@@ -123,6 +124,8 @@ public class OAuthTest {
 	
 	System.out.println("Branch");
 	System.out.println("Lets checkit out");
-
 	
+	System.out.println("Lets checkit out");
+
+	}
 }
