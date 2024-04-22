@@ -109,25 +109,7 @@ public class OAuthTest {
 		List<String> givenAPI = Arrays.asList(apititles);
 		Assert.assertTrue(givenAPI.equals(am));
 		
-		
 	}
-	{
-	
-	System.out.println("TestGit");
-	System.out.println("TestGit1");
-	
-	System.out.println("Ok. It looks good to me");
-	System.out.println("Lets to with this");
-	
-	System.out.println("Added");
-	System.out.println("New");
-	
-	System.out.println("Branch");
-	System.out.println("Lets checkit out");
-	
-	System.out.println("Lets checkit out");
-	
-	System.out.println("Added to develop");
 
-	}
 }
+
