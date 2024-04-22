@@ -63,7 +63,7 @@ public class OAuthTest {
 		else 
 		{
 			 System.out.println("API Assertion is false! Courses do not match as expected.");
-			 
+			 System.out.println("Removed issue");
 		}
 		
 		
@@ -110,5 +110,6 @@ public class OAuthTest {
 		Assert.assertTrue(givenAPI.equals(am));
 		
 	}
+		
 	
 }
