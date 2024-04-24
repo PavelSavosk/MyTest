@@ -112,10 +112,6 @@ public class OAuthTest {
 		Assert.assertTrue(givenAPI.equals(am));
 		
 	}
-<<<<<<< HEAD
 
-=======
-	
->>>>>>> 633797732626329b695a1f9e813b83ba4d607755
 }
 
