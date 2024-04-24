@@ -111,9 +111,9 @@ public class OAuthTest {
 		List<String> givenAPI = Arrays.asList(apititles);
 		Assert.assertTrue(givenAPI.equals(am));
 		
+		System.out.println ("test develop not in master");
+		
 	}
-	
-	System.out.println ("test");
 
 }
 
